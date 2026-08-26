@@ -31,7 +31,7 @@
     "notes": "Version 0.1.0 uses the release profile tested throughout development on reTerminal Sticky production hardware."
   },
   "assets": {
-    "preview": "assets/preview.jpg",
+    "preview": "assets/preview-launcher.jpg",
     "previewAlt": "Sticky Bunny app launcher running on reTerminal Sticky"
   },
   "tags": [
